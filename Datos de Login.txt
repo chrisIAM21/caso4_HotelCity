@@ -1,0 +1,9 @@
+username: Admin
+password: 1234
+
+Sitio público: http://localhost/HotelCity/source/
+
+Sitio para reservaciones: http://localhost/HotelCity/source/admin/reservation.php
+
+Sitio para administradores: http://localhost/HotelCity/source/admin/index.php
+
